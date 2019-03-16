@@ -1,0 +1,10 @@
+TimerEvent	KEYWORD1	
+setTimer		KEYWORD2
+getTimer		KEYWORD2
+set		KEYWORD2
+stop		KEYWORD2
+start		KEYWORD2
+resume		KEYWORD2
+isRun		KEYWORD2
+setPriority		KEYWORD2
+
